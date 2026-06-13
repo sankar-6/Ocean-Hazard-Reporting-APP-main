@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75541301332",
+    "project_id": "backend-c8c99",
+    "storage_bucket": "backend-c8c99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75541301332:android:a66afeada4ed06108b45c1",
+        "android_client_info": {
+          "package_name": "com.example.sih_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAubuQbjmN4ZvdsFL6f2fYLMC3fGXEdco0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
